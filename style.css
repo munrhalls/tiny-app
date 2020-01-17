@@ -27,3 +27,11 @@ nav {
 .blue {
   color: blue;
 }
+
+
+article {
+  max-width: 1000px;
+  margin: 60px auto;
+  text-align: justify;
+  display: flex;
+}
